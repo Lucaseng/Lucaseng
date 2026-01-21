@@ -1,5 +1,5 @@
 # Kia Ora, I’m Lucas :wave:
-I’m a recent graduate from the University of Auckland. I studied a Bachelor of Science majoring in Computer Science, Statistics.
+I’m a software engineer at Xero. I studied a Bachelor of Science majoring in Computer Science, Statistics.
 
 ## My Toolkit:
 ### Languages
